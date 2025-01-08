@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|c:\\users\\mrky\\source\\repos\\inventorymanagementproject\\inventorymanagementproject\\views\\home\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|solutionrelative:inventorymanagementproject\\views\\home\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|c:\\users\\mrky\\source\\repos\\inventorymanagementproject\\inventorymanagementproject\\models\\itemaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|solutionrelative:inventorymanagementproject\\models\\itemaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|c:\\users\\mrky\\source\\repos\\inventorymanagementproject\\inventorymanagementproject\\views\\home\\inventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|solutionrelative:inventorymanagementproject\\views\\home\\inventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|c:\\users\\mrky\\source\\repos\\inventorymanagementproject\\inventorymanagementproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|solutionrelative:inventorymanagementproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|c:\\users\\mrky\\source\\repos\\inventorymanagementproject\\inventorymanagementproject\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|solutionrelative:inventorymanagementproject\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|c:\\users\\mrky\\source\\repos\\inventorymanagementproject\\inventorymanagementproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CD358D-4F06-4469-9621-90F4FA4361F8}|InventoryManagementProject\\InventoryManagementProject.csproj|solutionrelative:inventorymanagementproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemAddVM.cs",
+              "DocumentMoniker": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Models\\ItemAddVM.cs",
+              "RelativeDocumentMoniker": "InventoryManagementProject\\Models\\ItemAddVM.cs",
+              "ToolTip": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Models\\ItemAddVM.cs",
+              "RelativeToolTip": "InventoryManagementProject\\Models\\ItemAddVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:42:34.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Views\\Home\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementProject\\Views\\Home\\AddItem.cshtml",
+              "ToolTip": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Views\\Home\\AddItem.cshtml",
+              "RelativeToolTip": "InventoryManagementProject\\Views\\Home\\AddItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:23:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "InventoryManagementProject\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "InventoryManagementProject\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T15:10:57.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Views\\Home\\Inventory.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementProject\\Views\\Home\\Inventory.cshtml",
+              "ToolTip": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Views\\Home\\Inventory.cshtml",
+              "RelativeToolTip": "InventoryManagementProject\\Views\\Home\\Inventory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T15:07:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InventoryManagementProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:06:55.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "InventoryManagementProject\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Mrky\\source\\repos\\InventoryManagementProject\\InventoryManagementProject\\Models\\Item.cs",
+              "RelativeToolTip": "InventoryManagementProject\\Models\\Item.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA3wAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:30:39.417Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
